@@ -1,7 +1,7 @@
 # CS50p
 #### *CS50’s Web Programming with Python and JavaScript*
 An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to learn Python specifically.
-- Week 0 Functions, Variables
+- [Week 0 Functions, Variables](https://github.com/kylekce/CS50p/tree/main/Week%200)
 - Week 1 Conditionals
 - Week 2 Loops
 - Week 3 Exceptions
