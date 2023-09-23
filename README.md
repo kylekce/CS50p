@@ -10,6 +10,6 @@ An introduction to programming using a language called Python. Learn how to read
 - [Week 6 File I/O](https://github.com/kylekce/CS50p/tree/main/Week%206)
 - [Week 7 Regular Expressions](https://github.com/kylekce/CS50p/tree/main/Week%207)
 - [Week 8 Object-Oriented Programming](https://github.com/kylekce/CS50p/tree/main/Week%208)
-- [Week 9 Et Cetera](https://github.com/kylekce/CS50p/tree/main/Week%209)
+- Week 9 Et Cetera
 
 _*Please note that this repository serves as a storage space for my projects and files completed for Harvard University's CS50p course. It is not intended to be used as a source of answers or to encourage academic dishonesty. If you are currently enrolled in the course, please refer to the course materials and complete the assignments on your own*_
